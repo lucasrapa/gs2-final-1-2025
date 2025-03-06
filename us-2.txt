@@ -1,0 +1,11 @@
+SCRUM es un marco de trabajo utilizado en el desarrollo de software que permite desarrollar de forma iteractiva e incremental.
+Busca generar compromiso, adptabilidad y flexiblidad a los cambios de requerimiento, 
+mediante la entrega constante de funcionalidades a desarrollar en periodos denominados sprint.
+
+
+Actores:Product Owner,Development Team,Scrum Master
+
+Artefactos:Backlog,Sprint Backlog
+
+Ceremonias:Backlog Priority,Refinamiento,Planing,Daily,Review, Retrospective
+
